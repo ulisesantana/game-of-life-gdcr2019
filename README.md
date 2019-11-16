@@ -54,3 +54,8 @@ This is a template repository. So just use the template and once you have your r
 }
 
 ```
+
+Cosas a tener en cuenta:
+  - La célula o está viva o no está.
+  - Todo void
+  - 
